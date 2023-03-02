@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" and dir="Itr">
+<head>
+	<meta charset="utf-8">
+	<title>Login For With Verification</title>
+	<link rel="stylesheet" type="text/css" href="style01.css">
+	<script>
+		function validate(){  
+		var username=document.getElementById("userame").value;
+		var password=document.getElementById("password").value;
+			
+			if(username=="Admin" || password=="user") {
+			
+			alert("Login Successfull");
+				
+
+			}
+			else
+			{
+			alert ("login Failed");
+			
+			}
+   
+} 
+	</script>
+		
+	
+</head>
+<body>
+	<form class="box"  method="POST">
+		<h1> Login </h1>
+		<input type="text" name="" placeholder="Enter User Name" id="userame">
+		<input type="password" name="" placeholder="Enter Password" id="password">
+		<input type="submit" name="" value="Login" onclick="validate()"/>
+
+	
+
+
+	</form>
+
+</body>
+</html>

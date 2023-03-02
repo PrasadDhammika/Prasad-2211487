@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+}
+#Log{
+background-color: rgb(101, 104, 104);
+width: 10vw;
+height: 100vh;
+}
+.LogInB{
+    position: relative;
+    left: 12px;
+    top: 50px;
+    width: 8vw;
+    height: 5vh;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: rgb(169, 169, 248);
+}
+.CrateAccount{
+    width: 8vw;
+    height: 5vh;
+    position: relative;
+    top: 500px;
+    left: 12px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: rgb(162, 162, 245);
+}
+.H{
+    margin: 0%;
+    position: relative;
+    bottom: 450px;
+    left: 450px;
+    height: 0vh;
+    width: 60vw;
+
+}
+.I2Log{
+    background-color: rgb(149, 155, 155);
+    width: 30vw;
+    height: 50vh;
+    position: relative;
+    left: 450px;
+    top: 150px;
+}
+.Fogot{
+    position: relative;
+    left: 145px;
+    top: 165px;
+}
+.I2LogDtails{
+    font-size: 1.5em;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.I2LogUser{
+    background-color: white;
+    width: 15vw;
+    height: 5vh;
+    position: relative;
+    left: 95px;
+    top: 80px;
+}
+.I2LogPassWord{
+    background-color: white;
+    width: 15vw;
+    height: 5vh;
+    position: relative;
+    left: 95px;
+    top: 100px;
+}
+.I2LogIn{
+    position: relative;
+    right: 60px;
+    top: 160px;
+    width: 6vw;
+    height: 4vh;
+    background-color: rgb(138, 138, 236);
+}
+.I4Pro{
+    width: 30vw;
+    height: 50vh;
+    background-color: rgb(121, 121, 117);
+    position: relative;
+    left: 440px;
+    top: 200px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.I4Img{
+    width: 5vw;
+    height: 10vh;
+    position: relative;
+    left: 180px;
+    top: 30px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.I4ProMyOne{
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+.Name{
+    position: relative;
+    left: 190px;
+    top: 50px;
+}
+.I4But{
+    width: 6vw;
+    height: 11vh;
+    position: relative;
+    left: 170px;
+    top: 100px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.I4LogOut{
+    position: relative;
+    left: 30px;
+    bottom: 300px;
+    width: 10vw;
+    height: 5vh;
+    background-color: rgb(128, 128, 243);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
